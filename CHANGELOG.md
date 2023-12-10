@@ -2,8 +2,9 @@
 
 ## 2023-12-10 - 0.0.1
 ### Added
-- This CHANGELOG file to hopefully serve as an evolving example of a standardized open source project CHANGELOG.
-- CNAME file to enable GitHub Pages custom domain
+- Score History and Highest Score
+- Controller Function
+- Snake Speed Level
 ### Deprecated
 - Nothing.
 ### Removed
